@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/djkhaled" android:duration="25" />
+    <item android:drawable="@drawable/djkhaled_mouth" android:duration="50" />
+    <item android:drawable="@drawable/djkhaled" android:duration="25" />
+</animation-list>
